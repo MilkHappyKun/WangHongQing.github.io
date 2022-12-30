@@ -1,0 +1,1 @@
+import{h as s,i as n,C as r,o,c as l,t as c,u}from"./index.53871c04.js";const p={__name:"User",setup(i){let e=s({});n(()=>{t()});let t=async()=>{let a=await r();e.value=a.data};return(a,_)=>(o(),l("div",null,c(u(e)),1))}};export{p as default};
