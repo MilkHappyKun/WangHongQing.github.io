@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e95ff"],{"8cec":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 优惠券管理 ")])},r=[],u={name:"",props:[],data:function(){return{}},methods:{}},a=u,o=t("2877"),s=Object(o["a"])(a,c,r,!1,null,"7b3975f5",null);n["default"]=s.exports}}]);

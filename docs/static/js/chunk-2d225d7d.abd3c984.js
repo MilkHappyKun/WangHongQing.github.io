@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d225d7d"],{e5b9:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 商品评论 ")])},r=[],u={name:"",props:[],data:function(){return{}},methods:{}},a=u,d=t("2877"),o=Object(d["a"])(a,c,r,!1,null,"ee6d23ce",null);n["default"]=o.exports}}]);

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d7e74"],{7995:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 团购活动 ")])},r=[],u={name:"",props:[],data:function(){return{}},methods:{}},c=u,o=t("2877"),s=Object(o["a"])(c,a,r,!1,null,"590266ea",null);n["default"]=s.exports}}]);

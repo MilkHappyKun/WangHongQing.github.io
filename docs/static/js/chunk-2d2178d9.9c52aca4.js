@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2178d9"],{c6e5:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 商品类目 ")])},r=[],u={name:"",props:[],data:function(){return{}},methods:{}},a=u,o=t("2877"),s=Object(o["a"])(a,c,r,!1,null,"e6f8cd88",null);n["default"]=s.exports}}]);
